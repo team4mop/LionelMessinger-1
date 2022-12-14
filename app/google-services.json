@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572647013621",
+    "project_id": "project-tmp1-d50d0",
+    "storage_bucket": "project-tmp1-d50d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572647013621:android:418979cdbac7e59016d9bc",
+        "android_client_info": {
+          "package_name": "com.techtown.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572647013621-325fgg0gr142hu0h848c208fraac0ut7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIPr-QUFkHLls1NZ2pA--4QXg_3Bn8NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572647013621-325fgg0gr142hu0h848c208fraac0ut7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menlogout"
+        android:title="로그아웃"/>
+    <!--<item
+        android:id="@+id/mendeletchat"
+        android:title="채팅삭제"/>
+        -->
+    <item
+        android:id="@+id/Nickchange"
+        android:title="닉네임 변경"/>
+
+
+</menu>
